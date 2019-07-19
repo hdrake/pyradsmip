@@ -6,7 +6,7 @@ PyRADSMIP: comparing python-wrapped radiation codes
 
 # Installation
 
-We recommend using [`anaconda`](https://www.anaconda.com/distribution/) to handle `python` dependencies and `fortran`-wrapping behind the scenes. With `anaconda` installed, simply create an environment with the necessary `python` modules based on the `environment.yml` file with:
+We recommend using [`anaconda`](https://www.anaconda.com/distribution/) to handle `python` dependencies behind the scenes. With `anaconda` installed, simply create an environment with the necessary `python` modules based on the `environment.yml` file with:
 
 `conda env create -f environment.yml`
 
